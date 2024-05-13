@@ -7,4 +7,5 @@ pip install -r requirements.pip
 para rodar o projeto, executar 
 
 python audio_video_pub.py
+
 python audio_video_subscriber.py 
